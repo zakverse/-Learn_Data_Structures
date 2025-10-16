@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Deklarasi Single LinkedList
+// Deklarasi Single LinkedList 
 struct Buku{
 //Komponen / Member
   string judul , pengarang ;
