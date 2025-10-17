@@ -40,7 +40,7 @@ void popArray(){
 }
 
 void displayArray(){
-    if (isEmpty){
+    if (isEmpty()){
         cout << "Data kosong" << endl;
     }else{
         cout << "==== Data Stack Array ==== " << endl;
@@ -89,9 +89,9 @@ int main(){
    //pushArray("Learn cook with Mas fuad");
    //popArray();
    //peekArray(3);
-   //displayArray();
+   displayArray();
 
-   cout << "Banyak Data : " << countArray() << endl;
+   //cout << "Banyak Data : " << countArray() << endl;
 
 
 //    if (isFull()){
