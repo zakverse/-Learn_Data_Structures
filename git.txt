@@ -1,0 +1,11 @@
+git add .
+
+git commit -m "commit"
+
+git remote add origin https://github.com/zakverse/-Learn_Data_Structures
+
+git branch -M main
+
+git push -u origin main
+
+
